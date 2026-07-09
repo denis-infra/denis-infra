@@ -22,7 +22,7 @@
 * 🌐 **Website:** [Professional Website](https://denis-infra.github.io/)
 * 🔗 **LinkedIn:** [Denis Lyashenko](https://www.linkedin.com/in/denislyashenko)
 * 🆔 **ORCID:** [0009-0006-1469-4607](https://orcid.org/0009-0006-1469-4607)
-* 🎥 **YouTube:** с(https://www.youtube.com/@Storage_DR_Architect)
+* 🎥 **YouTube:** [Денис Ляшенко | Storage & DR](https://www.youtube.com/@Storage_DR_Architect)
 * 💬 **Telegram:** [@DenisITLife_bot](https://t.me/DenisITLife_bot)
 
 ---
