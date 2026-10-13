@@ -18,6 +18,10 @@
 
 **Key Projects & Infrastructure Audit:** АО «Kaspi Bank», АО «ЦеснаБанк», АО «Нурбанк», АО «Альфа-Банк», АО «Евразийский Банк», АО «ГНПФ», АО «KEGOC», ТОО «Транспортный холдинг города Алматы».
 
+### ✦ Публикации и код
+* **Препринт (SSRN, 12.10.2026):** Denis Lyashenko. [Deterministic Lower Bound of Fibre Channel Fabric Latency: A Reproducible Calculation Methodology from Datasheet Parameters for 32/64/128GFC (Gen 6/7/8)](https://doi.org/10.2139/ssrn.7599458). DOI: `10.2139/ssrn.7599458`.
+* **Код (Zenodo, 12.10.2026):** Denis Lyashenko. [Fibre Channel Fabric Latency Lower Bounds Computational Package](https://doi.org/10.5281/zenodo.23303372), v1.0.0, Python, MIT. Расчётный пакет для воспроизведения численных результатов препринта. DOI: `10.5281/zenodo.23303372`.
+
 ### ✦ Digital Identity & Connect
 * 🌐 **Website:** [Professional Website](https://denis-infra.github.io/)
 * 🔗 **LinkedIn:** [Denis Lyashenko](https://www.linkedin.com/in/denislyashenko)
@@ -27,3 +31,4 @@
 
 ---
 *LOC: Almaty, KZ*
+
