@@ -23,11 +23,11 @@
 * **Код (Zenodo, 12.10.2026):** Denis Lyashenko. [Fibre Channel Fabric Latency Lower Bounds Computational Package](https://doi.org/10.5281/zenodo.23303372), v1.0.0, Python, MIT. Расчётный пакет для воспроизведения численных результатов препринта. DOI: `10.5281/zenodo.23303372`.
 
 ### ✦ Digital Identity & Connect
-* <img src="assets/youtube.png" width="24" height="24" alt=""> **YouTube:** [Денис Ляшенко | Storage & DR](https://www.youtube.com/@Storage_DR_Architect)
-* <img src="assets/linkedin.png" height="21" alt=""> **LinkedIn:** [Denis Lyashenko](https://www.linkedin.com/in/denislyashenko)
-* <img src="assets/orcid.png" width="24" height="24" alt=""> **ORCID:** [0009-0006-1469-4607](https://orcid.org/0009-0006-1469-4607)
-* 🌐 **Website:** [Professional Website](https://denis-infra.github.io/)
-* 💬 **Telegram:** [@DenisITLife_bot](https://t.me/DenisITLife_bot)
+* <img src="https://denis-infra.github.io/images/youtube.png" width="24" height="24" alt=""> **YouTube:** [Денис Ляшенко | Storage & DR](https://www.youtube.com/@Storage_DR_Architect)
+* <img src="https://denis-infra.github.io/images/linkedin.png" height="21" alt=""> **LinkedIn:** [Denis Lyashenko](https://www.linkedin.com/in/denislyashenko)
+* <img src="https://denis-infra.github.io/images/orcid.png" width="24" height="24" alt=""> **ORCID:** [0009-0006-1469-4607](https://orcid.org/0009-0006-1469-4607)
+* <img src="https://denis-infra.github.io/images/favicon.png" width="24" height="24" alt=""> **Website:** [Professional Website](https://denis-infra.github.io/)
+* <img src="https://denis-infra.github.io/images/telegram.svg" width="24" height="24" alt=""> **Telegram:** [@DenisITLife_bot](https://t.me/DenisITLife_bot)
 
 ---
 *LOC: Almaty, KZ*
